@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="{0f4225ae-e82d-4d2e-aa98-614edc7a3693}">
+				<Prp name="relpath" type="S" value="3.Knight\3.Knight.mds.tcLS"/>
+			</Node>
+			<Node name="{47f83c21-ae71-4b2f-aa60-389d7567086e}">
+				<Prp name="relpath" type="S" value="Orders\2.Orders.mds.tcLS"/>
+			</Node>
+			<Node name="{7d8fb72a-1870-4e8a-9e51-bd0fd6a7f27a}">
+				<Prp name="relpath" type="S" value="2.Orders\2.Orders.mds.tcLS"/>
+			</Node>
+			<Node name="{82ecf400-cfd7-4b4a-a79a-7eb368b34bf8}">
+				<Prp name="relpath" type="S" value="Project1\Project1.mds.tcLS"/>
+			</Node>
+			<Node name="{847cc095-2c9d-48b6-992f-6160e7649a1b}">
+				<Prp name="relpath" type="S" value="1.Notepad\1.Notepad.mds.tcLS"/>
+			</Node>
+			<Node name="{d5fcd191-f459-4959-9ab4-a9bf850e3601}">
+				<Prp name="relpath" type="S" value="1.Notepad\1.Notepad.mds.tcLS"/>
+			</Node>
+			<Node name="logs">
+				<Prp name="key" type="S" value="{CC28E12E-1A3A-4302-AC1A-7D0A01E335E6}"/>
+				<Prp name="relpath" type="S" value="[KMA-TST-TRAINEE]\Log"/>
+			</Node>
+			<Node name="variables"/>
+		</Node>
+		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
+	</Node>
+</Nodes>
