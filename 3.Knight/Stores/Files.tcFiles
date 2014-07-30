@@ -25,15 +25,15 @@
 					<Node name="settings">
 						<Prp name="settingsversion" type="S" value="7.50"/>
 					</Node>
-					<Prp name="caption" type="S" value="Orders.txt"/>
-					<Prp name="filename" type="S" value="..\Orders.txt"/>
-					<Prp name="id" type="S" value="{2A35E587-AA65-4336-9758-F799E12181F2}"/>
+					<Prp name="caption" type="S" value="Combinations.txt"/>
+					<Prp name="filename" type="S" value="Files\Combinations.txt"/>
+					<Prp name="id" type="S" value="{53FD7E90-88AE-49AE-8A7C-BE6897D22E1F}"/>
 					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
 					<Prp name="update" type="B" value="0"/>
 					<Prp name="version" type="S" value="7.0"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
-				<Prp name="key" type="S" value="{2A35E587-AA65-4336-9758-F799E12181F2}"/>
+				<Prp name="key" type="S" value="{53FD7E90-88AE-49AE-8A7C-BE6897D22E1F}"/>
 				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
 				<Prp name="typename" type="S" value="File"/>
 			</Node>

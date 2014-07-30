@@ -25,17 +25,17 @@
 					<Node name="settings">
 						<Prp name="settingsversion" type="S" value="7.50"/>
 					</Node>
-					<Prp name="caption" type="S" value="Orders.txt"/>
-					<Prp name="filename" type="S" value="..\Orders.txt"/>
-					<Prp name="id" type="S" value="{2A35E587-AA65-4336-9758-F799E12181F2}"/>
-					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="caption" type="S" value="Pbx_ChessBoard"/>
+					<Prp name="filename" type="S" value="Regions\Pbx_ChessBoard"/>
+					<Prp name="id" type="S" value="{086169F8-7D48-4C59-8766-AC682E9CDFA3}"/>
+					<Prp name="signature" type="S" value="{1FD256C1-604C-48A1-9990-9A9329139EC4}"/>
 					<Prp name="update" type="B" value="0"/>
 					<Prp name="version" type="S" value="7.0"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
-				<Prp name="key" type="S" value="{2A35E587-AA65-4336-9758-F799E12181F2}"/>
-				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
-				<Prp name="typename" type="S" value="File"/>
+				<Prp name="key" type="S" value="{086169F8-7D48-4C59-8766-AC682E9CDFA3}"/>
+				<Prp name="type" type="S" value="{1FD256C1-604C-48A1-9990-9A9329139EC4}"/>
+				<Prp name="typename" type="S" value="Region"/>
 			</Node>
 		</Node>
 		<Node name="folders">
@@ -44,7 +44,7 @@
 		<Node name="settings">
 			<Prp name="settingsversion" type="S" value="7.50"/>
 		</Node>
-		<Prp name="signature" type="S" value="{AA2F3067-5C9B-4CCF-89D4-1F93CE1C510F}"/>
+		<Prp name="signature" type="S" value="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}"/>
 		<Prp name="version" type="S" value="7.0"/>
 	</Node>
 </Nodes>

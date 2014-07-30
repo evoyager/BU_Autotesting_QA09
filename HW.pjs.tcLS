@@ -35,6 +35,12 @@
 			<Node name="{847cc095-2c9d-48b6-992f-6160e7649a1b}">
 				<Prp name="relpath" type="S" value="1.Notepad\1.Notepad.mds.tcLS"/>
 			</Node>
+			<Node name="{8d606bbf-858d-4d4e-a115-cc8772e82e83}">
+				<Prp name="relpath" type="S" value="4.Presentation\4.Presentation.mds.tcLS"/>
+			</Node>
+			<Node name="{ba202c11-23a7-4a1d-b3fb-11c1942af61f}">
+				<Prp name="relpath" type="S" value="3.Knight\3.Knight.mds.tcLS"/>
+			</Node>
 			<Node name="{d5fcd191-f459-4959-9ab4-a9bf850e3601}">
 				<Prp name="relpath" type="S" value="1.Notepad\1.Notepad.mds.tcLS"/>
 			</Node>

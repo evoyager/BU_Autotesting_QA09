@@ -34,28 +34,37 @@
 		<Node name="child list">
 			<Node name="item0000000000">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="3.Knight\3.Knight.mds"/>
+					<Prp name="relpath" type="S" value="1.Notepad\1.Notepad.mds"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
-				<Prp name="key" type="S" value="{0F4225AE-E82D-4D2E-AA98-614EDC7A3693}"/>
+				<Prp name="key" type="S" value="{847CC095-2C9D-48B6-992F-6160E7649A1B}"/>
 				<Prp name="type" type="S" value="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}"/>
 				<Prp name="typename" type="S" value="Project"/>
 			</Node>
 			<Node name="item0000000001">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="1.Notepad\1.Notepad.mds"/>
+					<Prp name="relpath" type="S" value="2.Orders\2.Orders.mds"/>
 				</Node>
 				<Prp name="index" type="I" value="1"/>
-				<Prp name="key" type="S" value="{847CC095-2C9D-48B6-992F-6160E7649A1B}"/>
+				<Prp name="key" type="S" value="{7D8FB72A-1870-4E8A-9E51-BD0FD6A7F27A}"/>
 				<Prp name="type" type="S" value="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}"/>
 				<Prp name="typename" type="S" value="Project"/>
 			</Node>
 			<Node name="item0000000002">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="2.Orders\2.Orders.mds"/>
+					<Prp name="relpath" type="S" value="3.Knight\3.Knight.mds"/>
 				</Node>
 				<Prp name="index" type="I" value="2"/>
-				<Prp name="key" type="S" value="{7D8FB72A-1870-4E8A-9E51-BD0FD6A7F27A}"/>
+				<Prp name="key" type="S" value="{BA202C11-23A7-4A1D-B3FB-11C1942AF61F}"/>
+				<Prp name="type" type="S" value="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}"/>
+				<Prp name="typename" type="S" value="Project"/>
+			</Node>
+			<Node name="item0000000003">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="4.Presentation\4.Presentation.mds"/>
+				</Node>
+				<Prp name="index" type="I" value="3"/>
+				<Prp name="key" type="S" value="{8D606BBF-858D-4D4E-A115-CC8772E82E83}"/>
 				<Prp name="type" type="S" value="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}"/>
 				<Prp name="typename" type="S" value="Project"/>
 			</Node>
@@ -64,6 +73,7 @@
 			<Node name="1.notepad\1.notepad.mds"/>
 			<Node name="2.orders\2.orders.mds"/>
 			<Node name="3.knight\3.knight.mds"/>
+			<Node name="4.presentation\4.presentation.mds"/>
 		</Node>
 		<Node name="folders">
 			<Node name="folders"/>
@@ -83,7 +93,7 @@
 					<Prp name="description" type="S" value=""/>
 					<Prp name="enabled" type="B" value="-1"/>
 					<Prp name="index" type="I" value="0"/>
-					<Prp name="key" type="S" value="{0F4225AE-E82D-4D2E-AA98-614EDC7A3693}"/>
+					<Prp name="key" type="S" value="{847CC095-2C9D-48B6-992F-6160E7649A1B}"/>
 					<Prp name="stoponerror" type="B" value="0"/>
 					<Prp name="timeout" type="I" value="0"/>
 				</Node>
@@ -91,7 +101,7 @@
 					<Prp name="description" type="S" value=""/>
 					<Prp name="enabled" type="B" value="-1"/>
 					<Prp name="index" type="I" value="1"/>
-					<Prp name="key" type="S" value="{847CC095-2C9D-48B6-992F-6160E7649A1B}"/>
+					<Prp name="key" type="S" value="{7D8FB72A-1870-4E8A-9E51-BD0FD6A7F27A}"/>
 					<Prp name="stoponerror" type="B" value="0"/>
 					<Prp name="timeout" type="I" value="0"/>
 				</Node>
@@ -99,7 +109,15 @@
 					<Prp name="description" type="S" value=""/>
 					<Prp name="enabled" type="B" value="-1"/>
 					<Prp name="index" type="I" value="2"/>
-					<Prp name="key" type="S" value="{7D8FB72A-1870-4E8A-9E51-BD0FD6A7F27A}"/>
+					<Prp name="key" type="S" value="{BA202C11-23A7-4A1D-B3FB-11C1942AF61F}"/>
+					<Prp name="stoponerror" type="B" value="0"/>
+					<Prp name="timeout" type="I" value="0"/>
+				</Node>
+				<Node name="item0000000003">
+					<Prp name="description" type="S" value=""/>
+					<Prp name="enabled" type="B" value="-1"/>
+					<Prp name="index" type="I" value="3"/>
+					<Prp name="key" type="S" value="{8D606BBF-858D-4D4E-A115-CC8772E82E83}"/>
 					<Prp name="stoponerror" type="B" value="0"/>
 					<Prp name="timeout" type="I" value="0"/>
 				</Node>
